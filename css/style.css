@@ -16,3 +16,7 @@ h1{
 .space{
     margin-top: 15px;
 }
+.navbar{
+    position: absolute;
+    right: 0;
+}
