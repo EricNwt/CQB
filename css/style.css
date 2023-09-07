@@ -4,6 +4,11 @@ body{
     background-position: center;
     background-size: 600px;
     background-repeat: no-repeat;
+    margin: 0;
+    padding: 0;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
 
 }
 h1{
