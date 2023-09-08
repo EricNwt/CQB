@@ -15,6 +15,9 @@ footer {
     bottom: 0;
     width: 100%;
 }
+.special{
+    width: 100px;
+}
 .maps{
     padding: auto;
     margin: auto;
