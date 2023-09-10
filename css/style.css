@@ -34,3 +34,19 @@ footer {
     position: absolute;
     right: 0;
 }
+.bandeiras-align {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.bandeiras-align>p {
+    margin-bottom: 0;
+}
+@media (max-width: 640px){
+.bandeiras-align {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 48px;
+    }
+}
