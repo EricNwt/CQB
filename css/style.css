@@ -16,7 +16,7 @@ footer {
     width: 100%;
 }
 .special{
-    width: 100px;
+    width: 110px;
 }
 .maps{
     padding: auto;
@@ -28,7 +28,16 @@ footer {
     margin: auto;
 }
 .space{
-    margin-top: 15px;
+    margin-top: 15px;/*15*/
+}
+.spaceAbout{
+    margin-top: 50px;
+}
+.spaceMenu{
+    margin-top: 10px;
+}
+.spaceLocation{
+    margin-top: 280px;
 }
 .navbar{
     position: absolute;
